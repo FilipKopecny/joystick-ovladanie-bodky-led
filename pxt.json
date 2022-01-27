@@ -1,5 +1,5 @@
 {
-    "name": "joystick-ovladanie-bodky-led",
+    "name": "joystick-ovladanie-bodky-led-aj-radio-posli",
     "description": "",
     "dependencies": {
         "core": "*",
